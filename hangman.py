@@ -3,7 +3,7 @@ import random
 import time
 
 #variables
-words = ["apple", 'bamamma', 'pear', 'mango', 'grapes', 'kiwi', 'peach']
+words = ["apple", 'bananna', 'pear', 'mango', 'grapes', 'kiwi', 'peach']
 chosen_word = random.choice(words)
 word_length = str(len(chosen_word))
 
